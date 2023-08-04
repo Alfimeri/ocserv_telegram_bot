@@ -6,9 +6,9 @@ from datetime import datetime
 import io
 
 PROJECT_LOCATION = '/root/occtl_telegram_bot'
-CHANNEL_ID = 'YOUR CHANNEL ID'
-ADMIN_ID = 'YOUR ADMIN ID'
-BOT_TOKEN = 'YOUR BOT TOKEN'
+CHANNEL_ID = '2063519745'
+ADMIN_ID = '2063519745'
+BOT_TOKEN = '6647473170:AAHE7Yq5Nc7fePP1dShlyRK2DIKTI_dyafs'
 
 
 
